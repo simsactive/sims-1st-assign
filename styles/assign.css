@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header and navigation styles */
+
+
+body {
+    background-image: url("../images/banner/banner3.png");
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 580px;
+}
+
+nav {
+    margin-left: 1000px;
+    text-align: right;
+    padding-right: 150px;
+
+}
+
+.nav-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    margin-top: 230px;
+    padding-bottom: 50px;
+}
+
+.nav-sub-title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+}
+
+button {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.btn-title {
+    font-weight: 600;
+    font-size: 20px;
+    background-color: rgb(11, 11, 41);
+    color: white
+}
+
+/* failure section styles */
+
+.banner {
+    margin-top: 80px;
+    padding-left: 200px;
+    display: flex;
+    align-items: center;
+    background-color: #151414;
+}
+
+.banner-sub-title {
+    padding-top: 300px;
+    padding-left: 50px;
+}
+
+.banner-title {
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #005FAC
+}
+
+.banner-description {
+    width: 416px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4076a1
+}
+
+ul {
+    width: 349px;
+    height: 162px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4076a1
+}
+
+ul li {
+    list-style: none;
+}
+
+
+/* my plan */
+
+.section-title {
+    padding-top: 50px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #151414;
+}
+
+.plan-container {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 50px 200px;
+}
+
+
+.plan-title {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.plan-sub-title {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272
+}
+
+
+/* gradient and image style  */
+
+.gradient {
+    background-image: url(../images/gradient1.png), url(../images/watch.png);
+    background-repeat: no-repeat;
+    width: 1040px;
+    height: 300px;
+    left: 275px;
+    top: 2221.96px;
+    margin: 200px;
+    padding-left: 30px;
+}
+
+.gradient-title {
+    font-weight: 700;
+    font-size: 40px;
+    padding: 50px 600px 20px 20px;
+    color: #FFFFFF;
+}
+
+.btn-primary {
+    width: 200px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #bf9cca;
+    margin-top: 15px;
+    background-color: #131246;
+}
+
+/* Special section Added  */
+
+.special-section {
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    background-color: #532411;
+    margin-right: 50px;
+}
+
+.btn-personal {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.personal-title {
+    margin-bottom: 75px;
+    font-weight: 900;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+
+button {
+    width: 360px;
+    height: 64px;
+    font-weight: 100px;
+    font-size: 24px;
+    color: #FFFFFF;
+    line-height: 23px;
+    background-color: #0c0404;
+}
+
+/* last section  */
+
+.future-title {
+    margin-top: 40px;
+    font-weight: 700px;
+    font-size: 45px;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+.future-sub-title {
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 16px;
+    padding-right: 600px;
+    padding-left: 100px;
+}
+
+.mail {
+    margin-top: 20px;
+    padding-left: 100px;
+}
+
+.phone {
+    margin-top: 20px;
+    padding-left: 100px;
+}
+
+.future-plan {
+    margin-top: 10px;
+    padding-left: 100px;
+}
+
+section {
+    background-color: #7a8297;
+    color: #080606;
+}
+
+.subscribe-title {
+    padding-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+
+.email {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 100px;
+    width: 325px;
+    height: 64px;
+}
+
+.btn-title {
+    width: 170.11px;
+    height: 64px;
+    left: 1046px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+
+}
